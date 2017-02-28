@@ -19,6 +19,8 @@ this samples needs a bluemix account, if you don't have create one at (http://ww
 
 # step 2 - create the search index at cloudant
 
+<img src="https://github.com/rickubo/node-red-tweet-monitor/blob/master/index.png?raw=true">
+
 1. open the bluemix dashboard
 
 2. select the cloudant service created with the node-red starter, which usually initiate with the app project name.
