@@ -17,6 +17,9 @@ this samples needs a bluemix account, if you don't have create one at (http://ww
 
 6. deploy the app with the top right button.
 
+<img src="https://github.com/rickubo/node-red-tweet-monitor/blob/master/flow.png?raw=true">
+
+
 # step 2 - create the search index at cloudant
 
 <img src="https://github.com/rickubo/node-red-tweet-monitor/blob/master/index.png?raw=true">
@@ -35,6 +38,8 @@ this samples needs a bluemix account, if you don't have create one at (http://ww
 
 1. if you are monitoring your own twitter account, post a tweet.
 
-2. check it out, and have fun!!
+2. open the dashbord at http://<myproject>.mybluemix.net/dashboard url. Remind to replace <myproject> by your project name.
+
+3. check it out, and have fun!!
 
 
