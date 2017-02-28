@@ -38,7 +38,7 @@ this samples needs a bluemix account, if you don't have create one at (http://ww
 
 1. if you are monitoring your own twitter account, post a tweet.
 
-2. open the dashbord at http://myproject.mybluemix.net/dashboard url. Remind to replace "myproject by your project name.
+2. open the dashbord at http://myproject.mybluemix.net/dashboard url. Remind to replace "myproject" by your project name.
 
 3. check it out, and have fun!!
 
